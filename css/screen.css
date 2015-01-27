@@ -1,0 +1,23 @@
+/* Foodspotting CSS */
+* {
+    border: 2px solid red;
+}
+
+body {
+    font-family: Helvetica;
+}
+
+.nav p {
+    text-align: right;
+    margin-bottom: 20px;
+}
+
+h1 {
+    color: blue;
+}
+
+.food-pics1 {
+
+}
+
+
